@@ -1,0 +1,24 @@
+# Environment variables (contains sensitive API Keys)
+.env
+
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# macOS Finder files
+.DS_Store
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Real lead sheets (privacy)
+data/hospitality-contacts-export.csv
+data/hospitality-contacts-researched.csv
